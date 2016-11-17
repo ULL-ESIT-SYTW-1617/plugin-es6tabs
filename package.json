@@ -1,6 +1,6 @@
 {
   "name": "gitbook-plugin-es6tabs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Include ES 6 code blocks, with automatically generated ES 5 tab",
   "main": "index.js",
   "scripts": {
@@ -36,9 +36,12 @@
         "title": "Babel Presets to enable",
         "type": "array",
         "items": {
-            "type": "string"
+          "type": "string"
         },
-        "default": ["es2015", "react"]
+        "default": [
+          "es2015",
+          "react"
+        ]
       }
     }
   }
