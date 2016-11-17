@@ -1,6 +1,6 @@
 {
-  "name": "gitbook-plugin-es6tabs",
-  "version": "1.0.2",
+  "name": "gitbook-plugin-es6tabs-stage-0",
+  "version": "1.0.3",
   "description": "Include ES 6 code blocks, with automatically generated ES 5 tab",
   "main": "index.js",
   "scripts": {
