@@ -2,6 +2,8 @@
 
 Include ES 6 code blocks, with automatically generated ES 5 preview using [Babel](https://babeljs.io/).
 
+Forked from https://github.com/GitbookIO/plugin-es6tabs to admit `stage-0`
+
 ![Preview](./preview.png)
 
 ### Installation
